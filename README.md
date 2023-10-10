@@ -1,6 +1,11 @@
 ![](huozhe.png)
 Staying alive!
 
+     _       _
+ d  |    1    |      1
+ -- |  -----  | = ------ 2
+ dx |_ 1 - x _|   (1 - x)
+ 
 
 ### Hi there 👋
 
