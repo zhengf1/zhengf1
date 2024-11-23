@@ -1,14 +1,24 @@
 ![](huozhe.png)
 Staying alive!
 
-
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bayesian Econometrics
-- 🌱 I’m currently learning Bayesian Econometrics
+- 🧑‍🎓 I'm currently a full-time PhD student at the Department of Economics of the University of Melbourne
+- 🔭 I’m currently working and learning on Bayesian Econometrics
 - 👯 I’m looking to collaborate on  Bayesian Econometrics
-- 🤔 I’m looking for help with  Bayesian Econometrics
 - 💬 Ask me about Bayesian Econometrics
+  
+### Research
+
+- 🧐 My primary research focuses on shrinkage and variable selections
+- 📑 I also study dimension reduction for high-dimension data
+- 📖 My research area covers Bayesian/Financial/Macro econometrics
+
+### Teaching
+
+- 🧑‍🏫 I also teach various undergraduate and graduate levels quantitative, and economics subjects.
+
+
 
 
 <!--
