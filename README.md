@@ -7,7 +7,7 @@
   
 ### Research
 
-- 🧐 My primary research focuses on shrinkage and variable selections
+- 🧐 My primary research focuses on shrinkage priors and variable selections
 - 📑 I also study dimension reduction for high-dimension data
 - 📖 My research area covers Bayesian/Financial/Macro econometrics
 
