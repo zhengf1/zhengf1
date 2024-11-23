@@ -1,6 +1,3 @@
-![](huozhe.png)
-Staying alive!
-
 ### Hi there 👋
 
 - 🧑‍🎓 I'm currently a full-time PhD student at the Department of Economics of the University of Melbourne
@@ -18,6 +15,8 @@ Staying alive!
 
 - 🧑‍🏫 I also teach various undergraduate and graduate levels quantitative, and economics subjects.
 
+![](huozhe.png)
+Staying alive!
 
 
 
