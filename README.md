@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 - 🧑‍🎓 I'm currently a full-time PhD student at the Department of Economics of the University of Melbourne
-- 🔭 I’m currently working and learning on Bayesian Econometrics
-- 👯 I’m looking to collaborate on  Bayesian Econometrics
-- 💬 Ask me about Bayesian Econometrics
+- 🔭 I’m currently working and learning Bayesian Econometrics
   
-### Research
+### Research interest
 
 - 🧐 My primary research focuses on shrinkage priors and variable selections
 - 📑 I also study dimension reduction for high-dimension data
@@ -13,8 +11,14 @@
 
 ### Teaching
 
-- 🧑‍🏫 I also teach various undergraduate and graduate levels quantitative, and economics subjects.
+- 🧑‍🏫 I also teach various undergraduate and graduate levels quantitative and economics subjects.
 
+### Education background
+
+- 🎓 PhD Candidate, Department of Economics, University of Melbourne
+- 🎓 Bachelor of Commerce (Degree with Honours), University of Melbourne
+- ......
+  
 ### Staying alive!
 ![](huozhe.png)
 
