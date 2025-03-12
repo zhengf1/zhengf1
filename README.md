@@ -2,6 +2,7 @@
 
 - 🧑‍🎓 I'm currently a full-time PhD student at the Department of Economics of the University of Melbourne
 - 🔭 I’m currently working and learning Bayesian Econometrics
+- You can also visit my personal website for details: <a href="[mailto:fan.z@unimelb.edu.a](https://zhengf1.github.io/website/)u">[fan [dot] z [at] unimelb [dot] edu [dot] au](https://zhengf1.github.io/website/)</a>
   
 ### Research interest
 
