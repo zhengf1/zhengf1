@@ -16,8 +16,6 @@
 ### Education background
 
 - 🎓 PhD Candidate, Department of Economics, University of Melbourne
-- 🎓 Visiting Scholar, Department of Statistical Science, University College London
-- 🎓 Bachelor of Commerce (Degree with Honours), University of Melbourne
 - ......
   
 ### Staying alive!
