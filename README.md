@@ -13,7 +13,6 @@
 ### Teaching
 
 - 🧑‍🏫 I also teach various undergraduate and graduate levels quantitative and economics subjects.
-- Find materials here  <a href="https://zhengf1.github.io/teaching/">zhengf1.github.io/teaching</a>
 
 ### Education background
 
